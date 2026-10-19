@@ -1,3 +1,15 @@
-Invoice Number: INV-2026-305
-Vendor: Amman Computer Store
-Total: 175.75 JOD
+AMMAN OFFICE SUPPLIES
+Tax Invoice
+
+Invoice No: INV-2026-789
+Date: 18 October 2026
+
+Customer: Example Company
+Description: Office equipment and accessories
+
+Subtotal: 140.00 JOD
+Tax: 22.40 JOD
+TOTAL AMOUNT DUE: 162.40 JOD
+
+Payment Method: Bank Transfer
+Currency: JOD
